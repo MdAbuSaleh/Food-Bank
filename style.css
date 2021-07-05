@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+.flex{
+    display: flex;
+    
+}
+.container{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+.top-Section{
+    margin: 100px 0px;
+}
+.mainTop-section{}
+.top-Section-Left{
+    width: 50%;
+}
+.top-Section-Left h1{
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0.7px;
+    color: #767676;
+    padding-bottom: 20px;
+    margin-top: 50px;
+}
+.top-Section-Left span{
+    color: gold;
+}
+.top-Section-Left p{
+    font-size: 18px;
+    line-height: 30px;
+    color: gray;
+    padding-bottom: 30px;
+}
+.My-btn{
+    display: inline-block;
+    padding: 20px 35px;
+    background-image: linear-gradient(250deg, gold,red);
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    transition: 0.5s;
+}
+.My-btn:hover{
+    background-image: linear-gradient(360deg, red,gold);
+    
+}
+.top-Section-Right{
+    width: 50%;
+
+}
+.top-Section-Right image{
+
+}
+.top-Section-Right img{
+    width: 500px;
+    padding-left: 100px;
+}
+
