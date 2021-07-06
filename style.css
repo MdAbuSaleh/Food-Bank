@@ -10,7 +10,7 @@ body{
     
 }
 .container{
-    max-width: 1400px;
+    max-width: 1380px;
     margin: 0 auto;
 }
 .top-Section{
@@ -88,6 +88,7 @@ body{
 }
 .aboutUs-Right{
     width: 50%;
+    padding-top: 100px;
 }
 .aboutUs-Right h2{
     font-size: 40px;
